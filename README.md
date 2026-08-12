@@ -23,4 +23,4 @@ An AI agent that takes a student's profile (known skills, background, career goa
 1. *Clone the Repository:*
    ```bash
    git clone https://github.com/faraazkhan890/Course-Recommendation-Agent.git
-   cd Course-Recommendation-Agent
+   cd Course-Recommendation-Agent 
