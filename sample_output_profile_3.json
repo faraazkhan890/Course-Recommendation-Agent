@@ -1,0 +1,14 @@
+{
+  "student_id": "STU_003",
+  "student_name": "Rahul Verma",
+  "career_goal": "AI Research Engineer",
+  "recommended_learning_path": [
+    {
+      "step": 1,
+      "course_id": "AI101",
+      "course_title": "Applied Machine Learning & Computer Vision",
+      "rationale": "To become an AI Research Engineer, the student needs to learn Machine Learning and Computer Vision skills. Since the student has already completed the prerequisites for AI101 (CS101 and CS102), it's the most suitable next course."
+    }
+  ],
+  "overall_summary": "Based on the student's background and career goal, the recommended learning path starts with AI101, which covers essential Machine Learning and Computer Vision skills. This course aligns with the student's career aspirations and builds upon their existing knowledge."
+}

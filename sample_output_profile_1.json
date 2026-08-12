@@ -1,0 +1,14 @@
+{
+  "student_id": "STU_001",
+  "student_name": "Mohammad Faraaz Khan",
+  "career_goal": "Full-Stack AI Developer (Django & Computer Vision)",
+  "recommended_learning_path": [
+    {
+      "step": 1,
+      "course_id": "CS102",
+      "course_title": "Data Structures & Algorithms in Python",
+      "rationale": "To unlock more courses like AI101 and progress towards the career goal, the student needs to learn Data Structures and Algorithms, which are crucial for AI development."
+    }
+  ],
+  "overall_summary": "Start by learning Data Structures and Algorithms in Python to build a strong foundation in programming and AI development, then progress to more specialized courses like Full-Stack Web Development and Applied Machine Learning & Computer Vision to achieve the goal of becoming a Full-Stack AI Developer."
+}

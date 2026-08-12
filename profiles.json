@@ -1,0 +1,24 @@
+[
+  {
+    "id": "STU_001",
+    "name": "Mohammad Faraaz Khan",
+    "current_background": "Final-Year B.Tech ECE Student",
+    "known_skills": ["Python Basics", "Basic Logic"],
+    "career_goal": "Full-Stack AI Developer (Django & Computer Vision)"
+  },
+  {
+    "id": "STU_002",
+    "name": "Ananya Sharma",
+    "current_background": "Non-CS Undergraduate",
+    "known_skills": [],
+    "career_goal": "Python Developer"
+  },
+  {
+    "id": "STU_003",
+    "name": "Rahul Verma",
+    "current_background": "Software Developer",
+    "known_skills": ["Python Basics", "Basic Logic", "CS101", "CS102"],
+    "career_goal": "AI Research Engineer"
+  }
+]
+  

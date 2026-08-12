@@ -1,0 +1,26 @@
+[
+  {
+    "id": "CS101",
+    "title": "Programming Fundamentals with Python",
+    "prerequisites": [],
+    "skills_learned": ["Python Basics", "Basic Logic"]
+  },
+  {
+    "id": "CS102",
+    "title": "Data Structures & Algorithms in Python",
+    "prerequisites": ["CS101"],
+    "skills_learned": ["Data Structures", "Algorithms"]
+  },
+  {
+    "id": "WEB101",
+    "title": "Full-Stack Web Development with Django & MySQL",
+    "prerequisites": ["CS101"],
+    "skills_learned": ["Django", "REST APIs", "MySQL"]
+  },
+  {
+    "id": "AI101",
+    "title": "Applied Machine Learning & Computer Vision",
+    "prerequisites": ["CS101", "CS102"],
+    "skills_learned": ["Machine Learning", "OpenCV", "YOLOv8"]
+  }
+]
